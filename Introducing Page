@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Page</title>
+</head>
+<body style="background-color:pink;">
+
+<h2>Introducing</h2>
+<a href="file:///C:/Users/Calvin%20Kei/Desktop/%E7%B6%B2%E9%A0%81%E8%A3%BD%E4%BD%9C/Practice%201/1.html">Home</a>
+<a href="file:///C:/Users/Calvin%20Kei/Desktop/%E7%B6%B2%E9%A0%81%E8%A3%BD%E4%BD%9C/Practice%201/3.html">Comment</a>
+<p>-------------------------------------------------------</p>
+<img src="images/16939348_1475891985778245_4745598715065807125_n.jpg" alt="https://www.facebook.com/calvin.k.chu" width="180" height="180">
+<p></p>
+<p style="color:green;font-size:20px;">朱鍇</p>
+<p style="color:green;font-size:20px">四管理二</p>
+<p style="color:green;font-size:20px">B10433020</p>
+
+</body>
+</html>
