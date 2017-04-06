@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<br>
+<input type="number" id="number1">
+<input type="number" id="number2">
+<br><br>
+<input type ="button" onclick="plus()" value= "+">
+<input type ="button" onclick="minus()" value= "-">
+<input type ="button" onclick="times()" value= "*">
+<input type ="button" onclick="divide()" value= "/">
+<br><br>
+<input type ="button" onclick="clear()" value= "C">
+<p id="result"></p>
+
+<script>
+function plus() {
+    var x = parseInt(document.getElementById("number1").value);
+    var y = parseInt(document.getElementById("number2").value);
+    document.getElementById("result").innerHTML = x + y;
+}
+</script>
+<script>
+function minus() {
+    var x = parseInt(document.getElementById("number1").value);
+    var y = parseInt(document.getElementById("number2").value);
+    document.getElementById("result").innerHTML = x - y;
+}
+</script>
+<script>
+function times() {
+    var x = parseInt(document.getElementById("number1").value);
+    var y = parseInt(document.getElementById("number2").value);
+    document.getElementById("result").innerHTML = x * y;
+}
+</script>
+<script>
+function divide() {
+    var x = parseInt(document.getElementById("number1").value);
+    var y = parseInt(document.getElementById("number2").value);
+    document.getElementById("result").innerHTML = x / y;
+}
+</script>
+<script>
+function clear() {
+    
+}
+</script>
+
+</body>
+</html>
